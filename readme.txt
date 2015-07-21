@@ -2,7 +2,7 @@
 ===POWr Pinterest Feed===
 Contributors: powr
 Donate link: http://powr.io/
-Tags: pinterest, pin, post, social media, social share, pinterest board, display, customize, personalize, easy, mobile responsive, twitter, facebook, instagram, tumblr, live, automatic, pinstagram, timeline, pinterest gallery, pinterest feed, pinterest stream, social stream, pinterest embed
+Tags: Facebook, Instagram, Pinterest, YouTube, Twitter, Vine, Tumblr, Flickr, RSS, Vimeo, Dailymotion, pin, post, social media, social share, pinterest board, display, customize, personalize, easy, mobile responsive, twitter, facebook, instagram, tumblr, live, automatic, pinstagram, timeline, pinterest gallery, pinterest feed, pinterest stream, social stream, pinterest embed
 Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 1.4
